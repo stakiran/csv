@@ -6,3 +6,5 @@ CSV置き場
 - csv
 
 [190807iryoukikann.csv](190807iryoukikann.csv)
+
+[220201iryokikann_from_xlsx.csv](220201iryokikann_from_xlsx.csv)
